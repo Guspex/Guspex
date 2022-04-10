@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    <div class="divisor">
+        <div class="container">
+            <svg viewBox="0 0 660 100">
+                <symbol id="s-text">
+                    <text text-anchor="middle" x="50%" y="70%">Guspex Games</text>
+                </symbol>
+        
+                <g class = "g-ants">
+                    <use xlink:href="#s-text" class="text-copy"></use>
+                    <use xlink:href="#s-text" class="text-copy"></use>
+                    <use xlink:href="#s-text" class="text-copy"></use>
+                    <use xlink:href="#s-text" class="text-copy"></use>
+                    <use xlink:href="#s-text" class="text-copy"></use>
+                </g>
+            </svg>
+        <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo" alt="">
+        <section class="jogos">
+        <input type="text" id="titulojogo" placeholder='Titulo do jogo' value="">
+        <input type="url" id="imagemjogo" placeholder='Url da imagem do jogo' value="">
+        <input type="url" id="videojogo" placeholder='Url do video do jogo' value="">
+        <button id="btnAdd">Adicionar</button>
+        </section>
+    
+        </div>
+        <div id="resultado" class="resultado"></div>
+    </div>
+    <a href="https://alura.com.br/" target="_blank">
+        <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+    </a>
+    <script src="app.js"></script>
+    </body>
+</html>
