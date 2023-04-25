@@ -11,7 +11,7 @@
 <div align="center">
   <div align="center">
     <a href="https://github.com/guspex">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guspex&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guspex&theme=radical"/>
   </div>
 </br>
   <div align="center">
