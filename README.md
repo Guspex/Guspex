@@ -44,3 +44,5 @@ Guspex/Guspex is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ![snake gif](https://github.com/Guspex/Guspex/snk/output/github-contribution-grid-snake.svg)
+
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
