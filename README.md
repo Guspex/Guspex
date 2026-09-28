@@ -2,18 +2,37 @@
 
 # Olá, eu sou o André Dienes Friedrich 👋
 
-### Analista de QA · Automação de Testes · RPA
+### QA · Automação de Testes · Analista de Desenvolvimento · Professor no SENAI/SC
 
 </div>
 
-Sou **Analista de QA** e **pós-graduado em Engenharia de Software com Ênfase em Qualidade e Testes**. Hoje trabalho com garantia de qualidade, automação de testes e RPA na **BPlus Tecnologia**, em projetos na plataforma **InterSystems IRIS**.
+Trabalho com tecnologia desde **2011**. Comecei como técnico de laboratório e de infraestrutura, fui líder técnico e fui sócio de uma empresa de segurança eletrônica. Desde 2022 atuo com **desenvolvimento de software e qualidade**. Sou **pós-graduado em Engenharia de Software com Ênfase em Qualidade e Testes**.
 
-Para mim, automação é uma **ferramenta estratégica de qualidade**, e não só execução de scripts. Começo pelo requisito e pelo risco, desenho os cenários certos, respeito a pirâmide de testes e envolvo o QA desde o início (Shift-Left). Trabalhei por anos como técnico de sistemas, com redes e infraestrutura, e isso me ajuda a investigar a causa-raiz de falhas em várias camadas: Web, Mobile, API, dados e rede.
+Hoje sou **Analista de Desenvolvimento na BPlus Tecnologia**, onde entrei como estagiário e cresci trabalhando com automação de testes, RPA e projetos na plataforma **InterSystems IRIS**. Também sou **professor no SENAI/SC**. Por dois anos, trabalhei como **QA freelancer** na Tester Work, testando aplicativos e produtos web.
 
-- 🔭 **Hoje:** QA, automação de testes e RPA na BPlus Tecnologia
+Para mim, automação é uma **ferramenta estratégica de qualidade**, e não só execução de scripts. Começo pelo requisito e pelo risco, desenho os cenários certos, respeito a pirâmide de testes e envolvo o QA desde o início (Shift-Left). Os anos em suporte técnico e infraestrutura me ajudam a investigar a causa-raiz de falhas em várias camadas: Web, Mobile, API, dados e rede.
+
+- 🔭 **Hoje:** Analista de Desenvolvimento na BPlus Tecnologia e professor no SENAI/SC
 - 🧪 **Foco:** testes E2E e de API, validação de dados com SQL e testes em CI/CD
 - 🌱 **Estudando:** Playwright avançado, observabilidade e IA aplicada a agentes e RAG
 - 💬 **Pode me perguntar sobre:** automação de testes, Cypress, Playwright, InterSystems IRIS
+
+---
+
+## 💼 Trajetória
+
+| Período | Cargo | Empresa |
+|---|---|---|
+| abr/2026 – atual | **Professor** | SENAI/SC |
+| set/2025 – atual | **Analista de Desenvolvimento** | BPlus Tecnologia |
+| abr/2023 – atual | **Programador de Software** (remoto) | BPlus Tecnologia |
+| nov/2022 – abr/2023 | Estagiário | BPlus Tecnologia |
+| out/2022 – nov/2024 | **Quality Assurance** (freelance): testes em aplicativos e produtos web | Tester Work |
+| jul/2022 – jul/2024 | Formação em Engenharia de QA, Full Stack Python e Desenvolvimento Web | EBAC |
+| dez/2014 – dez/2021 | **Sócio-proprietário**: projetos de infraestrutura e segurança eletrônica, serviços em nuvem para aplicativos de monitoramento | M&F Soluções |
+| jul/2014 – jan/2015 | Líder de Suporte Técnico | Neje Equipamentos de Segurança |
+| out/2013 – jul/2014 | Líder Técnico | Lider Express Informática |
+| ago/2011 – ago/2013 | Técnico em Informática | Golden Informática |
 
 ---
 
